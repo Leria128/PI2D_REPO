@@ -1,0 +1,819 @@
+fileFormatVersion: 2
+guid: c1879829be9486f4d90d4820b5f88b81
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3448738654246464242
+    second: Background_ Cementery 1_0
+  - first:
+      213: 5617895616850828609
+    second: Background_ Cementery 1_1
+  - first:
+      213: 8008111100810530714
+    second: Background_ Cementery 1_2
+  - first:
+      213: -8534071629440482042
+    second: Background_ Cementery 1_3
+  - first:
+      213: -489924866228805522
+    second: Background_ Cementery 1_4
+  - first:
+      213: -4681417769535369744
+    second: Background_ Cementery 1_5
+  - first:
+      213: 34705183946191630
+    second: Background_ Cementery 1_6
+  - first:
+      213: 9200110474568541499
+    second: Background_ Cementery 1_7
+  - first:
+      213: -2995978271994357228
+    second: Background_ Cementery 1_8
+  - first:
+      213: -2161161705813777038
+    second: Background_ Cementery 1_9
+  - first:
+      213: -7177664970653978334
+    second: Background_ Cementery 1_10
+  - first:
+      213: -3620764985607791163
+    second: Background_ Cementery 1_11
+  - first:
+      213: 4349780511479480864
+    second: Background_ Cementery 1_12
+  - first:
+      213: 7313087574038724955
+    second: Background_ Cementery 1_13
+  - first:
+      213: -4447228125244360030
+    second: Background_ Cementery 1_14
+  - first:
+      213: -7219341890051114531
+    second: Background_ Cementery 1_15
+  - first:
+      213: -8460924293310308474
+    second: Background_ Cementery 1_16
+  - first:
+      213: -2839986481754346543
+    second: Background_ Cementery 1_17
+  - first:
+      213: 5837022190267866120
+    second: Background_ Cementery 1_18
+  - first:
+      213: 2721383083531536962
+    second: Background_ Cementery 1_19
+  - first:
+      213: -5472735152805747104
+    second: Background_ Cementery 1_20
+  - first:
+      213: -7604801638634471361
+    second: Background_ Cementery 1_21
+  - first:
+      213: 8984486391186008618
+    second: Background_ Cementery 1_22
+  - first:
+      213: 4322839768920397808
+    second: Background_ Cementery 1_23
+  - first:
+      213: 4489268747469921190
+    second: Background_ Cementery 1_24
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Background_ Cementery 1_0
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 72
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e051b76577e9320d0800000000000000
+      internalID: -3448738654246464242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_ Cementery 1_1
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 65
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14d1e937c46c6fd40800000000000000
+      internalID: 5617895616850828609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_ Cementery 1_2
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 49
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9f8cad0e96822f60800000000000000
+      internalID: 8008111100810530714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_ Cementery 1_3
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 75
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60506778113e09980800000000000000
+      internalID: -8534071629440482042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_ Cementery 1_4
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 68
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e602dcd0eef6339f0800000000000000
+      internalID: -489924866228805522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_ Cementery 1_5
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 72
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fd84a18753480fb0800000000000000
+      internalID: -4681417769535369744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_ Cementery 1_6
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 65
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e033af05e2c4b7000800000000000000
+      internalID: 34705183946191630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_ Cementery 1_7
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 49
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b35220b7bbb5daf70800000000000000
+      internalID: 9200110474568541499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_ Cementery 1_8
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 72
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41adcfe82a52c66d0800000000000000
+      internalID: -2995978271994357228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_ Cementery 1_9
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 65
+        width: 7
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 275eacef0e20202e0800000000000000
+      internalID: -2161161705813777038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_ Cementery 1_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 38
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 221b763fcbfc36c90800000000000000
+      internalID: -7177664970653978334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_ Cementery 1_11
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 43
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cddca1ed6570cdc0800000000000000
+      internalID: -3620764985607791163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_ Cementery 1_12
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 34
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 022c6ad34568d5c30800000000000000
+      internalID: 4349780511479480864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_ Cementery 1_13
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 48
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b51c6e5f66e4d7560800000000000000
+      internalID: 7313087574038724955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_ Cementery 1_14
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 38
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2aafeaf15954842c0800000000000000
+      internalID: -4447228125244360030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_ Cementery 1_15
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 42
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd9f76bfccebfcb90800000000000000
+      internalID: -7219341890051114531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_ Cementery 1_16
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 24
+        width: 38
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68f14c1ee22c49a80800000000000000
+      internalID: -8460924293310308474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_ Cementery 1_17
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 48
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dbee1c77575698d0800000000000000
+      internalID: -2839986481754346543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_ Cementery 1_18
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 16
+        width: 48
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80c1df491c4410150800000000000000
+      internalID: 5837022190267866120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_ Cementery 1_19
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 30
+        width: 23
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24a87a7fe7b44c520800000000000000
+      internalID: 2721383083531536962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_ Cementery 1_20
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 43
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0666833df50fc04b0800000000000000
+      internalID: -5472735152805747104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_ Cementery 1_21
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 23
+        width: 22
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3042ed9331567690800000000000000
+      internalID: -7604801638634471361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_ Cementery 1_22
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 32
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2a29fb55ce4fac70800000000000000
+      internalID: 8984486391186008618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_ Cementery 1_23
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 16
+        width: 39
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f79e6fcddfcdfb30800000000000000
+      internalID: 4322839768920397808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_ Cementery 1_24
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 40
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ab153204261d4e30800000000000000
+      internalID: 4489268747469921190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Background_ Cementery 1_0: -3448738654246464242
+      Background_ Cementery 1_1: 5617895616850828609
+      Background_ Cementery 1_10: -7177664970653978334
+      Background_ Cementery 1_11: -3620764985607791163
+      Background_ Cementery 1_12: 4349780511479480864
+      Background_ Cementery 1_13: 7313087574038724955
+      Background_ Cementery 1_14: -4447228125244360030
+      Background_ Cementery 1_15: -7219341890051114531
+      Background_ Cementery 1_16: -8460924293310308474
+      Background_ Cementery 1_17: -2839986481754346543
+      Background_ Cementery 1_18: 5837022190267866120
+      Background_ Cementery 1_19: 2721383083531536962
+      Background_ Cementery 1_2: 8008111100810530714
+      Background_ Cementery 1_20: -5472735152805747104
+      Background_ Cementery 1_21: -7604801638634471361
+      Background_ Cementery 1_22: 8984486391186008618
+      Background_ Cementery 1_23: 4322839768920397808
+      Background_ Cementery 1_24: 4489268747469921190
+      Background_ Cementery 1_3: -8534071629440482042
+      Background_ Cementery 1_4: -489924866228805522
+      Background_ Cementery 1_5: -4681417769535369744
+      Background_ Cementery 1_6: 34705183946191630
+      Background_ Cementery 1_7: 9200110474568541499
+      Background_ Cementery 1_8: -2995978271994357228
+      Background_ Cementery 1_9: -2161161705813777038
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
