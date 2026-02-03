@@ -56,5 +56,13 @@ public class PlayerController : MonoBehaviour
 
     }
 
-    
+    #region InputMethods
+
+    public void OnMove(InputAction.CallbackContext context)
+    {
+        moveInput = context.ReadValue <Vector2>();
+    }
+
+
+    #endregion 
 }
