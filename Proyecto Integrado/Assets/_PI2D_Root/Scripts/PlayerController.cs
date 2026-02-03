@@ -10,9 +10,7 @@ public class PlayerController : MonoBehaviour
     [SerializeField] bool isGrounded;
     [SerializeField] bool isFacingRight;
     [SerializeField] enum FacingDirection { Left, Right, Up, Down }
-    [SerializeField] Transform groundCheck;
-    [SerializeField] float groundCheckRadius;
-    [SerializeField] LayerMask groundLayer; 
+    
 
 
     //Referencias generales
@@ -36,7 +34,7 @@ public class PlayerController : MonoBehaviour
 
     private void Update()
     {
-        isGrounded = Physics2D.OverlapCircle(groundCheck.position, groundCheckRadius, groundLayer);
+        
         //Animationmanagement();
 
         //direccion del personaje
@@ -54,6 +52,11 @@ public class PlayerController : MonoBehaviour
 
 
 
+    }
+
+    void FixedUpdate()
+    {
+        playerRb.linearVelocity = new Vector2 (moveInput.x * speed, moveInput.y * speed);
     }
 
     #region InputMethods
