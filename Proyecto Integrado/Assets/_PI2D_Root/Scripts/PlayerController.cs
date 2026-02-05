@@ -56,7 +56,8 @@ public class PlayerController : MonoBehaviour
 
     void FixedUpdate()
     {
-        playerRb.linearVelocity = new Vector2 (moveInput.x * speed, moveInput.y * speed);
+        playerRb.linearVelocity = new Vector2(moveInput.x * speed, moveInput.y * speed);
+        
     }
 
     #region InputMethods
