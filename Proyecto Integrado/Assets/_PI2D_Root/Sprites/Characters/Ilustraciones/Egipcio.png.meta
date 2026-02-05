@@ -1,16 +1,34 @@
 fileFormatVersion: 2
-guid: c7d8c34bc7866eb4fb34a593ad7bc60f
+guid: 3ae0a18f5489043478d0f4c535ade1f7
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -6392413387292937971
-    second: Egipcio-Sheet_0
+      213: -1983584958551526485
+    second: Egipcio_0
   - first:
-      213: 4759558420261221148
-    second: Egipcio-Sheet_1
+      213: 3362220178440825496
+    second: Egipcio_1
   - first:
-      213: -8744453446640004751
-    second: Egipcio-Sheet_2
+      213: -1352335645850003340
+    second: Egipcio_2
+  - first:
+      213: -5705065323185245440
+    second: Egipcio_3
+  - first:
+      213: -8713063614358435374
+    second: Egipcio_4
+  - first:
+      213: 8275483396837843736
+    second: Egipcio_5
+  - first:
+      213: -4414324789653632921
+    second: Egipcio_6
+  - first:
+      213: 4339565437513254228
+    second: Egipcio_7
+  - first:
+      213: -7703306900082828669
+    second: Egipcio_8
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -43,7 +61,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 0
+    filterMode: 1
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -57,7 +75,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 32
+  spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -81,7 +99,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 0
+    textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -158,67 +176,199 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Egipcio-Sheet_0
+      name: Egipcio_0
       rect:
         serializedVersion: 2
-        x: 0
+        x: 39
         y: 0
-        width: 32
-        height: 32
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        width: 529
+        height: 1068
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: d01f3f884e59947a0800000000000000
-      internalID: -6392413387292937971
+      spriteID: ba37abb5df3e874e0800000000000000
+      internalID: -1983584958551526485
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Egipcio-Sheet_1
+      name: Egipcio_1
       rect:
         serializedVersion: 2
-        x: 32
-        y: 0
-        width: 32
-        height: 32
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 578
+        y: 501
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: c13b36f7a295d0240800000000000000
-      internalID: 4759558420261221148
+      spriteID: 89aad90407109ae20800000000000000
+      internalID: 3362220178440825496
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Egipcio-Sheet_2
+      name: Egipcio_2
       rect:
         serializedVersion: 2
-        x: 64
-        y: 0
-        width: 32
-        height: 32
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 566
+        y: 482
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 171151e9be575a680800000000000000
-      internalID: -8744453446640004751
+      spriteID: 478130425e98b3de0800000000000000
+      internalID: -1352335645850003340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Egipcio_3
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 487
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 003f427b05983d0b0800000000000000
+      internalID: -5705065323185245440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Egipcio_4
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 472
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d9c8c87ecaf41780800000000000000
+      internalID: -8713063614358435374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Egipcio_5
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 462
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 813a925dd4c68d270800000000000000
+      internalID: 8275483396837843736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Egipcio_6
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 466
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7688e7dedfa2db2c0800000000000000
+      internalID: -4414324789653632921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Egipcio_7
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 471
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4554a8ef5cb393c30800000000000000
+      internalID: 4339565437513254228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Egipcio_8
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 3
+        width: 15
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38a5fb0303b581590800000000000000
+      internalID: -7703306900082828669
       vertices: []
       indices: 
       edges: []
@@ -227,7 +377,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: e4150726731ce2244b1b83e3288c56ff
+    spriteID: 
     internalID: 0
     vertices: []
     indices: 
@@ -235,13 +385,17 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries:
-      - key: SpriteEditor.SliceSettings
-        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":32.0,"y":32.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.0},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":7,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+      entries: []
     nameFileIdTable:
-      Egipcio-Sheet_0: -6392413387292937971
-      Egipcio-Sheet_1: 4759558420261221148
-      Egipcio-Sheet_2: -8744453446640004751
+      Egipcio_0: -1983584958551526485
+      Egipcio_1: 3362220178440825496
+      Egipcio_2: -1352335645850003340
+      Egipcio_3: -5705065323185245440
+      Egipcio_4: -8713063614358435374
+      Egipcio_5: 8275483396837843736
+      Egipcio_6: -4414324789653632921
+      Egipcio_7: 4339565437513254228
+      Egipcio_8: -7703306900082828669
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
