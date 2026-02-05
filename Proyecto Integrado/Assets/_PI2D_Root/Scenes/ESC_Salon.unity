@@ -8399,7 +8399,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::MapTransition
   mapBoundary: {fileID: 595230093}
   direction: 0
-  additivePos: 1.75
+  additivePos: 2
 --- !u!61 &2002414137
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -9089,7 +9089,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::MapTransition
   mapBoundary: {fileID: 1990169921}
   direction: 1
-  additivePos: 1.75
+  additivePos: 2
 --- !u!61 &2095945955
 BoxCollider2D:
   m_ObjectHideFlags: 0
