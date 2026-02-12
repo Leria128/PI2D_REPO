@@ -10,6 +10,7 @@ namespace DialogueSystem_V
     {
         public static DialogueManager Instance { get; private set; }
         [SerializeField] private Dialogue_UI dialogueUI;
+        [SerializeField] private float typingSpeed = 0.05f;
         private Queue<Dialogue_Turn> dialogueTurnsQueue;
 
         public bool IsDialogInProgress { get; private set; } = false;
