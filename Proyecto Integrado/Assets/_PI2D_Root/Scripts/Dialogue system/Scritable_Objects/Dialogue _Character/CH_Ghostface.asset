@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: CH_Ghostface
   m_EditorClassIdentifier: Assembly-CSharp::DialogueSystem_V.Dialogue_Character
   characterName: GhostFace
-  profilePhoto: {fileID: 2032153682048607370, guid: 7789b0b46a89f724cb848ac4ee866060, type: 3}
+  profilePhoto: {fileID: -2827407768583793677, guid: 87820dd591c60304c993911f483c8103, type: 3}

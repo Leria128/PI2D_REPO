@@ -10,7 +10,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: bb6257367e36b9d478aed6a6f8f96c86, type: 3}
-  m_Name: CH_Egipcio
+  m_Name: CH_ChicaMedieval
   m_EditorClassIdentifier: Assembly-CSharp::DialogueSystem_V.Dialogue_Character
-  characterName: Egipcio
-  profilePhoto: {fileID: -9069782714651159373, guid: 7d729089699e1da4c9c0497fb37f7e5d, type: 3}
+  characterName: Chica Medieval
+  profilePhoto: {fileID: -1193524535281733873, guid: 444074c0afb7cbc4fbf22d3834beebb5, type: 3}

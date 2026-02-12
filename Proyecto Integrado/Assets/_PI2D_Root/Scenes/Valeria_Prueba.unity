@@ -1442,10 +1442,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cdb1412ac327f434681fd5723b61d4d0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::DialogueSystem_V.DialogueManager
-  dialogBox: {fileID: 2007273148}
-  characterPhoto: {fileID: 2040897946}
-  characterName: {fileID: 1404042223}
-  dialogArea: {fileID: 1599584612}
+  dialogueUI: {fileID: 0}
+  typingSpeed: 0.05
 --- !u!4 &1718658534
 Transform:
   m_ObjectHideFlags: 0
@@ -1632,14 +1630,14 @@ RectTransform:
   m_GameObject: {fileID: 2040897944}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 0.5434375, y: 0.5434375, z: 0.5434375}
+  m_LocalScale: {x: 0.64717966, y: 0.64717966, z: 0.64717966}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 818486212}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -148, y: 77}
+  m_AnchoredPosition: {x: -148, y: 94.4}
   m_SizeDelta: {x: 158.5402, y: 342.0315}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &2040897946
@@ -1662,7 +1660,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 2032153682048607370, guid: 7789b0b46a89f724cb848ac4ee866060, type: 3}
+  m_Sprite: {fileID: -2827407768583793677, guid: 87820dd591c60304c993911f483c8103, type: 3}
   m_Type: 0
   m_PreserveAspect: 1
   m_FillCenter: 1

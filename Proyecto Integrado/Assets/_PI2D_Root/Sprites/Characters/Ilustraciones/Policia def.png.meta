@@ -1,34 +1,25 @@
 fileFormatVersion: 2
-guid: 3ae0a18f5489043478d0f4c535ade1f7
+guid: 5cccd3c8be830a74c86cac5432d9009c
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -1983584958551526485
-    second: Egipcio_0
+      213: 1370666762974191936
+    second: Policia def_0
   - first:
-      213: 3362220178440825496
-    second: Egipcio_1
+      213: -74997108315568564
+    second: Policia def_1
   - first:
-      213: -1352335645850003340
-    second: Egipcio_2
+      213: 332390410418431111
+    second: Policia def_2
   - first:
-      213: -5705065323185245440
-    second: Egipcio_3
+      213: 6062585098184675899
+    second: Policia def_3
   - first:
-      213: -8713063614358435374
-    second: Egipcio_4
+      213: -377022964151849722
+    second: Policia def_4
   - first:
-      213: 8275483396837843736
-    second: Egipcio_5
-  - first:
-      213: -4414324789653632921
-    second: Egipcio_6
-  - first:
-      213: 4339565437513254228
-    second: Egipcio_7
-  - first:
-      213: -7703306900082828669
-    second: Egipcio_8
+      213: 6066819902990717228
+    second: Policia def_5
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -108,7 +99,7 @@ TextureImporter:
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 4
-    buildTarget: iOS
+    buildTarget: Standalone
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -122,19 +113,6 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 4
     buildTarget: Android
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 4
-    buildTarget: Standalone
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -176,13 +154,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Egipcio_0
+      name: Policia def_0
       rect:
         serializedVersion: 2
-        x: 39
-        y: 0
-        width: 529
-        height: 1068
+        x: 43
+        y: 14
+        width: 482
+        height: 1024
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -191,41 +169,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ba37abb5df3e874e0800000000000000
-      internalID: -1983584958551526485
+      spriteID: 041e288a826950310800000000000000
+      internalID: 1370666762974191936
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Egipcio_1
+      name: Policia def_1
       rect:
         serializedVersion: 2
-        x: 578
-        y: 501
-        width: 10
-        height: 10
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 89aad90407109ae20800000000000000
-      internalID: 3362220178440825496
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Egipcio_2
-      rect:
-        serializedVersion: 2
-        x: 566
-        y: 482
-        width: 16
+        x: 207
+        y: 1028
+        width: 30
         height: 12
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -235,20 +191,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 478130425e98b3de0800000000000000
-      internalID: -1352335645850003340
+      spriteID: c464baff68e85fef0800000000000000
+      internalID: -74997108315568564
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Egipcio_3
+      name: Policia def_2
       rect:
         serializedVersion: 2
-        x: 567
-        y: 487
-        width: 9
-        height: 11
+        x: 240
+        y: 1022
+        width: 13
+        height: 7
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -257,20 +213,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 003f427b05983d0b0800000000000000
-      internalID: -5705065323185245440
+      spriteID: 784acb33153ec9400800000000000000
+      internalID: 332390410418431111
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Egipcio_4
+      name: Policia def_3
       rect:
         serializedVersion: 2
-        x: 586
-        y: 472
-        width: 24
-        height: 28
+        x: 355
+        y: 1002
+        width: 6
+        height: 12
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -279,20 +235,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 2d9c8c87ecaf41780800000000000000
-      internalID: -8713063614358435374
+      spriteID: b32dfdd9601a22450800000000000000
+      internalID: 6062585098184675899
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Egipcio_5
+      name: Policia def_4
       rect:
         serializedVersion: 2
-        x: 574
-        y: 462
-        width: 9
-        height: 9
+        x: 38
+        y: 590
+        width: 8
+        height: 14
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -301,63 +257,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 813a925dd4c68d270800000000000000
-      internalID: 8275483396837843736
+      spriteID: 60d60959c9b84caf0800000000000000
+      internalID: -377022964151849722
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Egipcio_6
+      name: Policia def_5
       rect:
         serializedVersion: 2
-        x: 575
-        y: 466
-        width: 14
-        height: 10
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 7688e7dedfa2db2c0800000000000000
-      internalID: -4414324789653632921
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Egipcio_7
-      rect:
-        serializedVersion: 2
-        x: 576
-        y: 471
-        width: 11
-        height: 8
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 4554a8ef5cb393c30800000000000000
-      internalID: 4339565437513254228
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Egipcio_8
-      rect:
-        serializedVersion: 2
-        x: 361
-        y: 3
-        width: 15
+        x: 433
+        y: 8
+        width: 7
         height: 6
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -367,8 +279,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 38a5fb0303b581590800000000000000
-      internalID: -7703306900082828669
+      spriteID: c211802fe8ca13450800000000000000
+      internalID: 6066819902990717228
       vertices: []
       indices: 
       edges: []
@@ -387,15 +299,12 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Egipcio_0: -1983584958551526485
-      Egipcio_1: 3362220178440825496
-      Egipcio_2: -1352335645850003340
-      Egipcio_3: -5705065323185245440
-      Egipcio_4: -8713063614358435374
-      Egipcio_5: 8275483396837843736
-      Egipcio_6: -4414324789653632921
-      Egipcio_7: 4339565437513254228
-      Egipcio_8: -7703306900082828669
+      Policia def_0: 1370666762974191936
+      Policia def_1: -74997108315568564
+      Policia def_2: 332390410418431111
+      Policia def_3: 6062585098184675899
+      Policia def_4: -377022964151849722
+      Policia def_5: 6066819902990717228
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
