@@ -8948,7 +8948,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 777181a372feaf64a8dab757eaff870d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::DialogueSystem_V.Dialogue_Trigger
-  dialogue: {fileID: 11400000, guid: b092a209a26ce1a44b2109c07b378891, type: 2}
+  dialogue: {fileID: 11400000, guid: b492a6f9b284b0a46b57f706342ad968, type: 2}
 --- !u!1 &635024075
 GameObject:
   m_ObjectHideFlags: 0
