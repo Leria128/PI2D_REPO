@@ -15,7 +15,7 @@ MonoBehaviour:
   dialogueTurnList:
   - <Character>k__BackingField: {fileID: 11400000, guid: c71087bf33da6a543809a16202625822, type: 2}
     dialogue_line: wertyuio
-  - <Character>k__BackingField: {fileID: 0}
+  - <Character>k__BackingField: {fileID: 11400000, guid: f63f9cfa5fa0b714784367e223459cfd, type: 2}
     dialogue_line: vbnjgrferj
   - <Character>k__BackingField: {fileID: 11400000, guid: c71087bf33da6a543809a16202625822, type: 2}
     dialogue_line: asdfghjkl
