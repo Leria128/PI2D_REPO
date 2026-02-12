@@ -1,32 +1,29 @@
+using DialogueSystem_V;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
 public class PanelCombinación : MonoBehaviour
 {
-    private string combinacionCorrecta = "1997";
-    private string combinacionPlayer = "";
-    private int numeroMaxDigitos = 0;
+    [SerializeField] private string correctCode = "1997";
+    [SerializeField] private Door door;
+    private string currentInput = "";
 
-    public void EscribirCombinacion (string numero)
+    public void AddNumber(string number)
     {
-        numeroMaxDigitos++;
-        combinacionPlayer += numero;
-        Debug.Log(combinacionPlayer);
-        if(numeroMaxDigitos == 4)
+        currentInput += number;
+
+        if (currentInput.Length >= correctCode.Length)
         {
-            if(combinacionPlayer == combinacionCorrecta)
+            if (currentInput == correctCode)
             {
-                Debug.Log("Combinación correcta! Es " + combinacionPlayer);
+                door.UnlockDoor();
             }
-            else
-            {
-                combinacionPlayer = "";
-                numeroMaxDigitos = 0;
-                Debug.Log("combinacion correcta");
-            }
+
+            currentInput = "";
         }
     }
+
 
 
 }
