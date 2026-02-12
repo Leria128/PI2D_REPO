@@ -12,5 +12,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bb6257367e36b9d478aed6a6f8f96c86, type: 3}
   m_Name: CH_Policia
   m_EditorClassIdentifier: Assembly-CSharp::DialogueSystem_V.Dialogue_Character
-  characterName: Policia
+  characterName: Jeremiah
   profilePhoto: {fileID: 1370666762974191936, guid: 5cccd3c8be830a74c86cac5432d9009c, type: 3}

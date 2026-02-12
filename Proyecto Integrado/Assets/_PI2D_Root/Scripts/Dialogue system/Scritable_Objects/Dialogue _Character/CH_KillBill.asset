@@ -12,5 +12,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bb6257367e36b9d478aed6a6f8f96c86, type: 3}
   m_Name: CH_KillBill
   m_EditorClassIdentifier: Assembly-CSharp::DialogueSystem_V.Dialogue_Character
-  characterName: KillBill
+  characterName: Maddison
   profilePhoto: {fileID: 0}
