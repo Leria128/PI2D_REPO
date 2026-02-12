@@ -331,13 +331,13 @@ MonoBehaviour:
     m_ActionName: 'New action map/New action[/Keyboard/w,/Keyboard/a]'
   - m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 155106352}
-        m_TargetAssemblyTypeName: 
-        m_MethodName: 
-        m_Mode: 1
+      - m_Target: {fileID: 155106358}
+        m_TargetAssemblyTypeName: PlayerController, Assembly-CSharp
+        m_MethodName: OnInteract
+        m_Mode: 0
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: 
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
           m_StringArgument: 
@@ -12649,7 +12649,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1805426508}
+      - m_Target: {fileID: 1805426510}
         m_TargetAssemblyTypeName: "PanelCombinaci\xF3n, Assembly-CSharp"
         m_MethodName: AddNumber
         m_Mode: 5
@@ -17855,7 +17855,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1805426508}
+      - m_Target: {fileID: 1805426510}
         m_TargetAssemblyTypeName: "PanelCombinaci\xF3n, Assembly-CSharp"
         m_MethodName: AddNumber
         m_Mode: 5
@@ -17988,7 +17988,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1805426508}
+      - m_Target: {fileID: 1805426510}
         m_TargetAssemblyTypeName: "PanelCombinaci\xF3n, Assembly-CSharp"
         m_MethodName: AddNumber
         m_Mode: 5
@@ -18257,7 +18257,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1805426508}
+      - m_Target: {fileID: 1805426510}
         m_TargetAssemblyTypeName: "PanelCombinaci\xF3n, Assembly-CSharp"
         m_MethodName: AddNumber
         m_Mode: 5
@@ -18483,7 +18483,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1805426508}
+      - m_Target: {fileID: 1805426510}
         m_TargetAssemblyTypeName: "PanelCombinaci\xF3n, Assembly-CSharp"
         m_MethodName: AddNumber
         m_Mode: 5
@@ -19159,7 +19159,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1805426508}
+      - m_Target: {fileID: 1805426510}
         m_TargetAssemblyTypeName: "PanelCombinaci\xF3n, Assembly-CSharp"
         m_MethodName: AddNumber
         m_Mode: 5
@@ -19564,7 +19564,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1805426508}
+      - m_Target: {fileID: 1805426510}
         m_TargetAssemblyTypeName: "PanelCombinaci\xF3n, Assembly-CSharp"
         m_MethodName: AddNumber
         m_Mode: 5
@@ -19697,7 +19697,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1805426508}
+      - m_Target: {fileID: 1805426510}
         m_TargetAssemblyTypeName: "PanelCombinaci\xF3n, Assembly-CSharp"
         m_MethodName: AddNumber
         m_Mode: 5
@@ -21884,7 +21884,7 @@ GameObject:
   - component: {fileID: 1805426507}
   - component: {fileID: 1805426506}
   - component: {fileID: 1805426509}
-  - component: {fileID: 1805426508}
+  - component: {fileID: 1805426510}
   m_Layer: 5
   m_Name: PanelBotones
   m_TagString: Untagged
@@ -21960,18 +21960,6 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1805426504}
   m_CullTransparentMesh: 1
---- !u!114 &1805426508
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1805426504}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 81f025e838548f749ae7a95f2d0b800d, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: "Assembly-CSharp::PanelCombinaci\xF3n"
 --- !u!61 &1805426509
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -22018,6 +22006,20 @@ BoxCollider2D:
   m_AutoTiling: 0
   m_Size: {x: 375.04416, y: 411.9123}
   m_EdgeRadius: 0
+--- !u!114 &1805426510
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1805426504}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 81f025e838548f749ae7a95f2d0b800d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: "Assembly-CSharp::PanelCombinaci\xF3n"
+  correctCode: 1997
+  door: {fileID: 2145280855}
 --- !u!1 &1834697807
 GameObject:
   m_ObjectHideFlags: 0
@@ -22101,7 +22103,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1805426508}
+      - m_Target: {fileID: 1805426510}
         m_TargetAssemblyTypeName: "PanelCombinaci\xF3n, Assembly-CSharp"
         m_MethodName: AddNumber
         m_Mode: 5
@@ -25792,7 +25794,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1805426508}
+      - m_Target: {fileID: 1805426510}
         m_TargetAssemblyTypeName: "PanelCombinaci\xF3n, Assembly-CSharp"
         m_MethodName: AddNumber
         m_Mode: 5
@@ -26082,6 +26084,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 217bddf5f10920d49a242af521c2dce0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::DialogueSystem_V.Door
+  doorCollider: {fileID: 2145280851}
 --- !u!1001 &6599038665117692375
 PrefabInstance:
   m_ObjectHideFlags: 0
