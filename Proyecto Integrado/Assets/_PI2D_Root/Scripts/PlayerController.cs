@@ -64,19 +64,9 @@ public class PlayerController : MonoBehaviour
 
     public void OnMove(InputAction.CallbackContext context)
     {
-        moveInput = context.ReadValue<Vector2>();
-    }
-    public void OnInteract(InputAction.CallbackContext context)
-    {
-        if (context.performed)
-        {
-            InteractuarPanel panel = FindFirstObjectByType<InteractuarPanel>();
-            if (panel != null)
-                panel.OnInteract();
-        }
+        moveInput = context.ReadValue <Vector2>();
     }
 
 
-    #endregion
-
+    #endregion 
 }

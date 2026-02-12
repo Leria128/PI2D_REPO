@@ -4,25 +4,29 @@ using UnityEngine;
 
 public class PanelCombinación : MonoBehaviour
 {
-    [SerializeField] private string correctCode = "1997";
-    [SerializeField] private Door door;
-    private string currentInput = "";
-    
-    public void AddNumber(string number)
+    private string combinacionCorrecta = "1997";
+    private string combinacionPlayer = "";
+    private int numeroMaxDigitos = 0;
+
+    public void EscribirCombinacion (string numero)
     {
-        currentInput += number;
-
-        if (currentInput.Length >= correctCode.Length)
+        numeroMaxDigitos++;
+        combinacionPlayer += numero;
+        Debug.Log(combinacionPlayer);
+        if(numeroMaxDigitos == 4)
         {
-            if(currentInput == correctCode)
+            if(combinacionPlayer == combinacionCorrecta)
             {
-                door.UnlockDoor();
+                Debug.Log("Combinación correcta! Es " + combinacionPlayer);
             }
-
-            currentInput = "";
+            else
+            {
+                combinacionPlayer = "";
+                numeroMaxDigitos = 0;
+                Debug.Log("combinacion correcta");
+            }
         }
     }
-    
-  
+
 
 }
