@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 1edec3ebdf588b3488ddb2f5a5c7a789
+guid: 87820dd591c60304c993911f483c8103
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 8134916097701630789
-    second: Medieval_0
+      213: -2827407768583793677
+    second: Ghostface def_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -84,7 +84,7 @@ TextureImporter:
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 4
-    buildTarget: iOS
+    buildTarget: Standalone
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -98,19 +98,6 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 4
     buildTarget: Android
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 4
-    buildTarget: Standalone
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -152,13 +139,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Medieval_0
+      name: Ghostface def_0
       rect:
         serializedVersion: 2
-        x: 20
-        y: 59
-        width: 626
-        height: 1002
+        x: 91
+        y: 0
+        width: 418
+        height: 1022
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -167,8 +154,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 543dc19171705e070800000000000000
-      internalID: 8134916097701630789
+      spriteID: 3f3126e5d9703c8d0800000000000000
+      internalID: -2827407768583793677
       vertices: []
       indices: 
       edges: []
@@ -187,7 +174,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Medieval_0: 8134916097701630789
+      Ghostface def_0: -2827407768583793677
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

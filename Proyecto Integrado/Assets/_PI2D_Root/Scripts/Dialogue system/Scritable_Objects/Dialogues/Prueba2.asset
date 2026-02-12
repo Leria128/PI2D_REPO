@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d5083eb9383d3a844a18316e8f137b51, type: 3}
+  m_Name: Prueba2
+  m_EditorClassIdentifier: Assembly-CSharp::DialogueSystem_V.Dialogue_Round
+  dialogueTurnList:
+  - <Character>k__BackingField: {fileID: 11400000, guid: fe0795e1b74478c4da4f394a8be2e8c6, type: 2}
+    dialogue_line: Hola
+  - <Character>k__BackingField: {fileID: 11400000, guid: f63f9cfa5fa0b714784367e223459cfd, type: 2}
+    dialogue_line: Como
+  - <Character>k__BackingField: {fileID: 11400000, guid: c71087bf33da6a543809a16202625822, type: 2}
+    dialogue_line: Tale tale
+  - <Character>k__BackingField: {fileID: 11400000, guid: a615352c75e84e148ae1018939a353b2, type: 2}
+    dialogue_line: bu
